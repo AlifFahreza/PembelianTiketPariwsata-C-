@@ -1,0 +1,13 @@
+=====================================================
+		Data Pemesanan Tiket
+=====================================================
+Nama Kasir : Alif Fahreza
+Nama Tempat Pariwisata yang Dipilih : Jawa Timur Park 2
+Total Yang Harus Dibayar : Rp. 310.000,-
+Nominal Pembayaran : Rp. 320.000,-
+Kembalian : Rp. 10.000,-
+=====================================================
+Nama ke-1 (Anak-Anak) : aaaa
+Nama ke-2 (Anak-Anak) : www
+Nama ke-1 (Dewasa) : qqq
+=====================================================
